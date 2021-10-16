@@ -16,4 +16,4 @@
 </div>
 <br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="S3cBar0n's Activity" src="https://activity-graph.herokuapp.com/graph?username=S3cBar0n&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="S3cBar0n's Activity" src="https://activity-graph.herokuapp.com/graph?username=S3cBar0n&custom_title="Open%20Source%20Contributions%20By%20S3cBar0n"&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&hide_border=true" /></a>
