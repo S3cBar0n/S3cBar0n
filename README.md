@@ -9,7 +9,6 @@
 - Love collaboration!
 
 ### 📈 GitHub Statistics
-<br/>
 <div align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=S3cBar0n&show_icons=true&include_all_commits=true&theme=radical" alt="S3cBar0n's Statistics"/></a>
