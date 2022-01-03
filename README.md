@@ -9,10 +9,10 @@
 - I love to collaborate!
 
 ### 📈 GitHub Statistics
-<div>
+<div align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3cBar0n&layout=compact&theme=radical" alt="S3cBar0n's Language Statistics"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=S3cBar0n&show_icons=true&include_all_commits=true&theme=radical" alt="S3cBar0n's Statistics"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=S3cBar0n&show_icons=true&include_all_commits=true&theme=radical" alt="S3cBar0n's Statistics"/></a>
 </div>
 <br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
