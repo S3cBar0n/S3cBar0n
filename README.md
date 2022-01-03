@@ -11,7 +11,8 @@
 ### 📈 GitHub Statistics
 <div align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=S3cBar0n&show_icons=true&include_all_commits=true&theme=radical" alt="S3cBar0n's Statistics"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3cBar0n&layout=compact&theme=radical" alt="S3cBar0n's Language Statistics"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=S3cBar0n&show_icons=true&include_all_commits=true&theme=radical" alt="S3cBar0n's Statistics"/></a>
 </div>
 <br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -19,11 +20,6 @@
 
 
 ### 📚 Programming Skills
-<div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3cBar0n&layout=compact&theme=radical" alt="S3cBar0n's Language Statistics"/></a>
-</div>
-<br>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
