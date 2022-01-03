@@ -6,7 +6,7 @@
 - Python Developer
 - I love learning new languages and tools
 - I enjoy contributing to open source projects
-- Love collaboration!
+- I Love collaboration!
 
 ### 📈 GitHub Statistics
 <div align="center">
